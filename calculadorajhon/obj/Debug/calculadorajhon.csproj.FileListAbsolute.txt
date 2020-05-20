@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\calculadorajhon\calculadorajhon\bin\Debug\calculadorajhon.exe
+C:\Users\jjjho\RiderProjects\calculadorajhon\calculadorajhon\bin\Debug\calculadorajhon.pdb
+C:\Users\jjjho\RiderProjects\calculadorajhon\calculadorajhon\obj\Debug\calculadorajhon.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\calculadorajhon\calculadorajhon\obj\Debug\calculadorajhon.exe
+C:\Users\jjjho\RiderProjects\calculadorajhon\calculadorajhon\obj\Debug\calculadorajhon.pdb
